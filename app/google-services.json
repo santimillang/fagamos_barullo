@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268698162277",
+    "firebase_url": "https://fagamos-barullo.firebaseio.com",
+    "project_id": "fagamos-barullo",
+    "storage_bucket": "fagamos-barullo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268698162277:android:afe28b35888e467304e28c",
+        "android_client_info": {
+          "package_name": "dev.santieinaki.fagamosbarullo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268698162277-hu1f1a7dnehmq3l3l02p5hkvfu2u9ab3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZc8_bdZuSyTd3Gdkj8aRK-6-mSjHBGGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268698162277-hu1f1a7dnehmq3l3l02p5hkvfu2u9ab3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

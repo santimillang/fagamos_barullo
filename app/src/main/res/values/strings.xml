@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Fagamos Barullo</string>
+    <string name="email_required">É necesario introducir un email</string>
+    <string name="password_required">É necesario introducir un contrasinal</string>
+    <string name="password_length">O contrasinal debe conter máis de 5 caracteres</string>
+    <string name="login_successful">Login satisfactorio</string>
+    <string name="error">Erro!</string>
+    <string name="user_created">Usuario creado</string>
+    <string name="login_message">Benvido de volta,</string>
+    <string name="login_submessage">Entra para seguir facendo barullo</string>
+    <string name="email">Email</string>
+    <string name="password">Contrasinal</string>
+    <string name="login">Fagamos Barullo</string>
+    <string name="create_account">Crea unha conta</string>
+    <string name="register_message">Rexístrate agora!</string>
+    <string name="register_submessage">E disfruta de todas as vantaxes...</string>
+    <string name="full_name">Nome completo</string>
+    <string name="phone_number">Número móbil</string>
+    <string name="register">Rexístrame</string>
+    <string name="already_registered">Xa estou rexistrado!</string>
+    <string name="logout">Saír</string>
+    <string name="change_image">Cambiar imaxe</string>
+    <string name="profile_image_description">Imaxe de perfil</string>
+    <string name="full_name_required">É necesario introducir un nome</string>
+    <string name="phone_number_required">É necesario introducir un número móbil</string>
+    <string name="anima">Comeza a facer o teu barullo,</string>
+    <string name="sen_descricion">Sen descrición.</string>
+    <string name="no_users">Non existen usuarios con eses criterios.</string>
+    <string name="picasso">Copyright 2013 Square, Inc.\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</string>
+    <string name="butterknife">Copyright 2013 Jake Wharton\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</string>
+    <string name="flexbox">Copyright 2018 Google LLC\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</string>
+    <string-array name="instrumentos">
+        <item>Trompeta</item>
+        <item>Guitarra</item>
+        <item>Batería</item>
+        <item>Bajo</item>
+        <item>Piano</item>
+    </string-array>
+</resources>

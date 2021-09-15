@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:overScrollMode="never">
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="20sp"
+            android:layout_width="match_parent"
+            android:text="Os teus axustes"
+            android:textColor="@color/secondaryTextColor"
+            android:textSize="34sp" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="10sp"
+            android:layout_width="match_parent"
+            android:text="Configúralo todo como ti queiras"
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="20sp"
+            android:layout_width="match_parent"
+            android:text="Axustes da conta"
+            android:textStyle="bold"
+            android:textColor="@color/secondaryTextColor" />
+
+        <TextView
+            android:id="@+id/tv_cuenta"
+            android:background="@drawable/my_rect"
+            android:elevation="8sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="16sp"
+            android:layout_width="match_parent"
+            android:padding="15sp"
+            android:text="Email e contrasinal" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="10sp"
+            android:layout_width="match_parent"
+            android:text="Cambia o teu email ou contrasinal. Incluso os dous se queres." />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="20sp"
+            android:layout_width="match_parent"
+            android:text="Axustes do perfil"
+            android:textStyle="bold"
+            android:textColor="@color/secondaryTextColor" />
+
+        <TextView
+            android:id="@+id/tv_perfil"
+            android:background="@drawable/my_rect"
+            android:elevation="8sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="16sp"
+            android:layout_width="match_parent"
+            android:padding="15sp"
+            android:text="Foto de perfil, instrumentos, ..." />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="10sp"
+            android:layout_width="match_parent"
+            android:text="Cambia a túa foto de perfil, engade fotos a maiores, escolle os teus instrumentos e sube as túas mellores maquetas. A que esperas?" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="20sp"
+            android:layout_width="match_parent"
+            android:text="Xurídico"
+            android:textStyle="bold"
+            android:textColor="@color/secondaryTextColor" />
+
+        <TextView
+            android:id="@+id/licenses"
+            android:background="@drawable/my_rect"
+            android:elevation="8sp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="16sp"
+            android:layout_width="match_parent"
+            android:padding="15sp"
+            android:text="Licenzas" />
+
+        <Button
+            android:backgroundTint="@color/colorAccent"
+            android:id="@+id/bt_logout"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40sp"
+            android:layout_marginRight="40sp"
+            android:layout_marginTop="50sp"
+            android:layout_width="match_parent"
+            android:text="Saír"
+            android:textColor="@color/secondaryTextColor" />
+
+        <TextView
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16sp"
+            android:layout_width="match_parent"
+            android:text="Fagamos Barullo" />
+
+        <TextView
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5sp"
+            android:layout_marginBottom="20sp"
+            android:layout_width="match_parent"
+            android:text="Unha app desenvolta por Santi e Inaki"
+            android:textSize="10sp" />
+    </LinearLayout>
+</ScrollView>
